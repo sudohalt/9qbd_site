@@ -61,16 +61,16 @@ h1 span,
 h2 span,
 h3 span,
 h4 span {
-	color: #339BEB;
+	color: #E0B0FF;
 }
 .text-colored {
-	color: #55acee;
+	color: #E0B0FF;
 }
 a {
-	color: #55acee;
+	color: #E0B0FF;
 }
 a:hover {
-	color: #339BEB;
+	color: #E0B0FF;
 }
 a:focus,
 a:active {
@@ -116,7 +116,7 @@ blockquote {
 ----------------------------------------------------------------------------- */
 .header {
 	color: #ffffff;
-	background-color: rgba(0, 0, 0, 0.10);
+	background-color: rgba(0, 0, 0, 1);
 	padding: 10px 0;
 	-webkit-transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
@@ -169,7 +169,7 @@ blockquote {
 	color: #ffffff;
 }
 .default-bg.blue {
-	background-color: #55acee;
+	background-color: #E0B0FF;
 }
 .translucent-bg {
 	color: #ffffff;
@@ -311,13 +311,13 @@ blockquote {
 	transition: all 0.2s ease-in-out;
 }
 .btn-default {
-	color: #55acee;
+	color: #E0B0FF;
 	border: 1px solid #cccccc;
 }
 .btn-default:hover {
 	color: #ffffff;
-	background-color: #339BEB;
-	border-color: #339BEB;
+	background-color: #E0B0FF;
+	border-color: #E0B0FF;
 }
 
 /* Collapse
@@ -348,7 +348,7 @@ blockquote {
 	padding: 12px 35px 12px 15px;
 	display: inline-block;
 	width: 100%;
-	background-color: #55acee;
+	background-color: #E0B0FF;
 	color: #ffffff;
 	position: relative;
 	text-decoration: none;
@@ -373,7 +373,7 @@ blockquote {
 }
 .panel-heading a:hover {
 	text-decoration: none;
-	background-color: #55acee;
+	background-color: #E0B0FF;
 	color: #ffffff;
 }
 .panel-title a i {
@@ -387,8 +387,8 @@ blockquote {
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus,
 .nav-pills > li > a:hover {
-	background-color: #55acee;
-	border-color: #55acee;
+	background-color: #E0B0FF;
+	border-color: #E0B0FF;
 	color: #ffffff;
 }
 .nav-pills > li > a {
@@ -427,7 +427,7 @@ textarea {
 	border-radius: 0px;
 }
 .modal-header {
-	background-color: #55acee;
+	background-color: #E0B0FF;
 	color: #ffffff;
 }
 .modal-header h4 {
@@ -476,11 +476,11 @@ textarea {
 }
 .main-navigation .navbar-default .navbar-nav > li.active > a {
 	background-color: transparent;
-	color: #55acee;
+	color: #E0B0FF;
 }
 .main-navigation .navbar-default .navbar-nav > li > a:hover,
 .main-navigation .navbar-default .navbar-nav > li.active > a:hover {
-	color: #55acee;
+	color: #E0B0FF;
 }
 @media (min-width:768px) {
 	.main-navigation .navbar-default .navbar-nav > li > a {
@@ -598,7 +598,7 @@ textarea {
 	transition: all 0.2s ease-in-out;
 }
 .social-links li.twitter a:hover {
-	color: #55acee;
+	color: #E0B0FF;
 }
 .social-links li.skype a:hover {
 	color: #00aff0;
